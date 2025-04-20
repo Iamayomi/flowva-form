@@ -8,8 +8,5 @@
     "main.093af31f.js.map": "/flowva-form/static/js/main.093af31f.js.map",
     "453.a4dfc352.chunk.js.map": "/flowva-form/static/js/453.a4dfc352.chunk.js.map"
   },
-  "entrypoints": [
-    "static/css/main.cd826350.css",
-    "static/js/main.093af31f.js"
-  ]
+  "entrypoints": ["static/css/main.cd826350.css", "static/js/main.093af31f.js"]
 }
