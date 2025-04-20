@@ -1,0 +1,9 @@
+{
+  "short_name": "Flowva",
+  "name": "Flowva Onboarding",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#9013FE",
+  "background_color": "#F5F6FA"
+}
